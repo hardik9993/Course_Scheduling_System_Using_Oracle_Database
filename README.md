@@ -7,8 +7,8 @@ Steps to run the project:
 
 	1 Setup Oracle database.
 	
-	2 Run "Database Creation Queries.sql"
+	2 Run "Database Queries.sql"
 	
-	3 Run "Run Features" for example "exec feature_1...." mentioned in the same file.
+	3 Run "Features" for example "exec feature_1...." mentioned in the same file.
 	
 Feel free to contact if you wish to contribute or criticize the project.
